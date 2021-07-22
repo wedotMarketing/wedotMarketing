@@ -5,7 +5,7 @@ we dot™ vermarktet Visionen – analog und digital. Wir entwickeln überzeugen
 Zur [we dot Marketing Agentur](https://wedot.ch)
 
 
-### Unsere Services
+## Unsere Services
 * [Branding](https://wedot.ch/branding)
 * [Marketing](https://wedot.ch/marketing)
 * [Werbung](https://wedot.ch/werbung)
@@ -37,5 +37,5 @@ Zur [we dot Marketing Agentur](https://wedot.ch)
 * [Branding für Basel](https://wedot.ch/branding-basel)
 * [Webdesigner für Basel](https://wedot.ch/webdesigner-basel)
 
-### Unser Portfolio
+## Unser Portfolio
 - [All unsere Projekte ansehen](https://wedot.ch/projekte-marketing-agentur)
