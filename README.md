@@ -5,7 +5,7 @@ we dot™ vermarktet Visionen – analog und digital. Wir entwickeln überzeugen
 Zur [we dot Marketing Agentur](https://wedot.ch)
 
 
-## Unsere Services
+### Unsere Services
 * [Branding](https://wedot.ch/branding)
 * [Marketing](https://wedot.ch/marketing)
 * [Werbung](https://wedot.ch/werbung)
@@ -21,19 +21,19 @@ Zur [we dot Marketing Agentur](https://wedot.ch)
 * [Inbound Marketing](https://wedot.ch/inbound-marketing)
 
 
-## Unsere Services für die Immobilien Branche
+### Unsere Services für die Immobilien Branche
 * [Immobilien Branding](https://wedot.ch/immobilien-branding)
 * [Immobilien Marketing](https://wedot.ch/immobilien-marketing-agentur)
 
 
-## Marketing für [Zürich](https://wedot.ch/orte/zuerich)
+### Marketing für [Zürich](https://wedot.ch/orte/zuerich)
 * [Marketing Agentur für Zürich](https://wedot.ch/marketing-agentur-zuerich)
 * [Webdesigner für Zürich](https://wedot.ch/webdesigner-zuerich)
 * [Webagentur für Zürich](https://wedot.ch/webagentur-zuerich)
 * [Branding für Zürich](https://wedot.ch/branding-zuerich)
 
 
-## Marketing für [Basel](https://wedot.ch/orte/basel)
+### Marketing für [Basel](https://wedot.ch/orte/basel)
 * [Branding für Basel](https://wedot.ch/branding-basel)
 * [Webdesigner für Basel](https://wedot.ch/webdesigner-basel)
 
